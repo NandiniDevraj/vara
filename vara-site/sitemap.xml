@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-DOMAIN.com/</loc><lastmod>2026-10-08</lastmod><priority>1.0</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/services.html</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/work.html</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/pricing.html</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/about.html</loc><lastmod>2026-10-08</lastmod><priority>0.6</priority></url>
-  <url><loc>https://YOUR-DOMAIN.com/contact.html</loc><lastmod>2026-10-08</lastmod><priority>0.7</priority></url>
+  <url><loc>https://nandinidevraj.github.io/vara/</loc><lastmod>2026-10-08</lastmod><priority>1.0</priority></url>
+  <url><loc>https://nandinidevraj.github.io/vara/services.html</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://nandinidevraj.github.io/vara/work.html</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://nandinidevraj.github.io/vara/pricing.html</loc><lastmod>2026-10-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://nandinidevraj.github.io/vara/about.html</loc><lastmod>2026-10-08</lastmod><priority>0.6</priority></url>
+  <url><loc>https://nandinidevraj.github.io/vara/contact.html</loc><lastmod>2026-10-08</lastmod><priority>0.7</priority></url>
+  <url><loc>https://nandinidevraj.github.io/vara/privacy.html</loc><lastmod>2026-10-15</lastmod><priority>0.3</priority></url>
 </urlset>
